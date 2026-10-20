@@ -38,7 +38,7 @@ Performance window
 ## Run from source
 
 ```powershell
-git clone https://github.com/<your-username>/NetTrafficTray.git
+git clone https://github.com/2-2nm/NetTrafficTray
 cd NetTrafficTray
 pip install -r requirements.txt
 python nettraffictray.py
