@@ -9,7 +9,8 @@ A lightweight Windows network speed meter. A small always-visible window shows l
 
 Performance window
 <p align="center">
-  <img width="900" alt="Performance window" src="https://github.com/user-attachments/assets/9d89cb4f-dc14-4196-bf64-ca85d3169fc3" />
+  <img width="900" alt="Performance window" src="<img width="1189" height="793" alt="Screenshot (1446)" src="https://github.com/user-attachments/assets/e653584a-7371-4980-86f2-32a04f0059b0" />
+" />
 </p>
 
 <p align="center">
