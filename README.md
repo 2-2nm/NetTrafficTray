@@ -7,7 +7,9 @@
 
 A lightweight Windows network speed meter. A small always-visible window shows live download/upload speed, and a detailed **Performance** window shows traffic charts, data usage history and per-app usage.
 
-![NetTrafficTray screenshot](docs/screenshot.png)
+![NetTrafficTray screenshot](
+
+)
 
 ## Key Features
 
