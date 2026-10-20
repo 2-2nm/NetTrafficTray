@@ -1,10 +1,15 @@
 # NetTrafficTray
 
+![Python](https://img.shields.io/badge/PYTHON-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-TKINTER-2EA44F?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-WINDOWS_10_%2F_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![License](https://img.shields.io/badge/LICENSE-MIT-97CA00?style=for-the-badge)
+
 A lightweight Windows network speed meter. A small always-visible window shows live download/upload speed, and a detailed **Performance** window shows traffic charts, data usage history and per-app usage.
 
 ![NetTrafficTray screenshot](docs/screenshot.png)
 
-## Features
+## Key Features
 
 - **Live speed meter**: small, draggable window with download/upload speed and a mini graph. Optional *Always on top* and *Move next to clock*.
 - **Tray icon**: hover for the live speed. Left-click toggles the meter, right-click opens the menu.
@@ -26,7 +31,7 @@ A lightweight Windows network speed meter. A small always-visible window shows l
 ## Run from source
 
 ```powershell
-git clone https://github.com/2-2nm/NetTrafficTray
+git clone https://github.com/<your-username>/NetTrafficTray.git
 cd NetTrafficTray
 pip install -r requirements.txt
 python nettraffictray.py
