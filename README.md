@@ -19,6 +19,18 @@ A lightweight Windows network speed meter. A small always-visible window shows l
   <img width="259" alt="Speed window" src="https://github.com/user-attachments/assets/eb4b50ff-e494-441d-9faf-e0ce8874f96d" />
 </p>
 
+## Download
+
+<p align="center">
+  <a href="https://github.com/2-2nm/NetTrafficTray/releases/latest/download/NetTrafficTray.exe">
+    <img alt="Download NetTrafficTray.exe" src="https://img.shields.io/badge/DOWNLOAD-NetTrafficTray.exe-2EA44F?style=for-the-badge&logo=windows&logoColor=white" />
+  </a>
+</p>
+
+Download `NetTrafficTray.exe` from the [latest release](https://github.com/2-2nm/NetTrafficTray/releases/latest) and run it. No installation needed.
+
+Windows SmartScreen may show "Windows protected your PC" because the app is not code-signed. Click **More info → Run anyway**.
+
 ## Key Features
 
 - **Live speed meter**: small, draggable window with download/upload speed and a mini graph. Optional *Always on top* and *Move next to clock*.
@@ -63,8 +75,6 @@ Put all `.py` files next to `build_windows.bat` and double-click it. The result 
 | `%APPDATA%\NetTrafficTray\nettraffictray.log` | log |
 
 Delete the folder to reset everything.
-
-Upgrading from an older build named *NetSpeedTray*? On first launch your settings, history and "launch at startup" entry are moved automatically to the new name.
 
 ## Notes and limitations
 
