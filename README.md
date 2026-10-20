@@ -7,10 +7,13 @@
 
 A lightweight Windows network speed meter. A small always-visible window shows live download/upload speed, and a detailed **Performance** window shows traffic charts, data usage history and per-app usage.
 
-Performance window
+<h3 align="center">Performance window</h3>
+
 <p align="center">
   <img width="900" alt="Performance window" src="https://github.com/user-attachments/assets/e653584a-7371-4980-86f2-32a04f0059b0" />
 </p>
+
+<h3 align="center">Always-visible speed meter</h3>
 
 <p align="center">
   <img width="259" alt="Speed window" src="https://github.com/user-attachments/assets/eb4b50ff-e494-441d-9faf-e0ce8874f96d" />
@@ -37,8 +40,10 @@ Performance window
 
 ## Run from source
 
+Clone [the repository](https://github.com/2-2nm/NetTrafficTray) and run it:
+
 ```powershell
-git clone github.com/2-2nm/NetTrafficTray
+git clone https://github.com/2-2nm/NetTrafficTray.git
 cd NetTrafficTray
 pip install -r requirements.txt
 python nettraffictray.py
